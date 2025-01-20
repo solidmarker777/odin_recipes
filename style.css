@@ -1,0 +1,11 @@
+.welcome
+ {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    fallback: "times new roman";
+    color: rgb(255, 100, 100);
+
+    
+}
+p {color: red;
+background-color: black;}
